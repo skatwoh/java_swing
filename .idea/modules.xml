@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ass/Ass.iml" filepath="$PROJECT_DIR$/Ass/Ass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTVN2/BTVN2.iml" filepath="$PROJECT_DIR$/BTVN2/BTVN2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTVN3/BTVN3.iml" filepath="$PROJECT_DIR$/BTVN3/BTVN3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi3/Buoi3.iml" filepath="$PROJECT_DIR$/Buoi3/Buoi3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi4/Buoi4.iml" filepath="$PROJECT_DIR$/Buoi4/Buoi4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi5/Buoi5.iml" filepath="$PROJECT_DIR$/Buoi5/Buoi5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date.iml" filepath="$PROJECT_DIR$/Date/Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo1/Demo1.iml" filepath="$PROJECT_DIR$/Demo1/Demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1/Lab1.iml" filepath="$PROJECT_DIR$/Lab1/Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/On1/On1.iml" filepath="$PROJECT_DIR$/On1/On1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/On2/On2.iml" filepath="$PROJECT_DIR$/On2/On2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnLuyen/OnLuyen.iml" filepath="$PROJECT_DIR$/OnLuyen/OnLuyen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thu/Thu.iml" filepath="$PROJECT_DIR$/Thu/Thu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToanTu/ToanTu.iml" filepath="$PROJECT_DIR$/ToanTu/ToanTu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/again/again.iml" filepath="$PROJECT_DIR$/again/again.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java2.iml" filepath="$PROJECT_DIR$/.idea/java2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/on/on.iml" filepath="$PROJECT_DIR$/on/on.iml" />
+    </modules>
+  </component>
+</project>
